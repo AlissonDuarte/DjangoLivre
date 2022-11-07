@@ -7,14 +7,14 @@ Core -- App Django
 *obs:* Alguns arquivos binários foram deletados da branch, clonar o repositório provavelmente não irá rodar o projeto  
      -Necessário configurar ambiente virtual local  
      -Projeto para consultas futuras sobre arquitetura website  
-     *-Rotas Cliente\Servidor:*
+     *-Rotas Cliente\Servidor:*  
         >User  
         >Browser  
         >URL  
         >Views  
         >Models  
         >ORM/DATABASE  
-     *-Rotas Servidor/Cliente:*
+     *-Rotas Servidor/Cliente:*  
         >Database/ORM  
         >Models  
         >Templates  
